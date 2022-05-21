@@ -1,6 +1,3 @@
-from cgi import print_exception
-
-
 class Cost:
     price:float
 
